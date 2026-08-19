@@ -1,4 +1,4 @@
-# Logs
+# ReadMe
 
-this entry done on 18 Aug 2026 \
-19 Aug 2026 - testing entry from home pc \
+Welcome! \
+This is a dummy repo for the purpose of helping to keep bootdev streak alive. Any updates to this repo will be considered as activity for bootdev but has no contributions to the scores
