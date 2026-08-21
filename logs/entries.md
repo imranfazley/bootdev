@@ -4,3 +4,4 @@
 19 Aug 2026 - learned that commits do no contribute to bootdev scores, but github activities only serve to keep bootdev steak aline \
 this is to get users into the habit of doing daily commits to git and practice
 20 Aug 2026 - automation to make daily commits to this repo might be good, but will defeat the original purpose of having this feature to be made available. maybe i should look into adding the other folders next
+21 Aug 2026 - to look into moving folders when i get to use my pc
