@@ -8,3 +8,4 @@ this is to get users into the habit of doing daily commits to git and practice
 22 Aug 2026 - checked gemini on how to add the folders, will do it tomorrow
 23 Aug 2026 - added folders from earlier modules done previously
 24 Aug 2026 - adding entry for bootdev streak
+27 Aug 2026 - folders synced with work laptop
