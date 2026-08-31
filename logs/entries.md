@@ -9,3 +9,4 @@ this is to get users into the habit of doing daily commits to git and practice
 23 Aug 2026 - added folders from earlier modules done previously
 24 Aug 2026 - adding entry for bootdev streak
 27 Aug 2026 - folders synced with work laptop
+31 Aug 2026 - went out the whole day. couldnt complete lesson on time. entry for streak today
