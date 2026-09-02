@@ -12,3 +12,4 @@ this is to get users into the habit of doing daily commits to git and practice
 31 Aug 2026 - went out the whole day. couldnt complete lesson on time. entry for streak today
 
 01 Sep 2026 - new entry to keep the streak
+02 Sep 2026 - first entry from the office!
