@@ -13,3 +13,4 @@ this is to get users into the habit of doing daily commits to git and practice
 
 01 Sep 2026 - new entry to keep the streak
 02 Sep 2026 - first entry from the office!
+03 Sep 2026 - adding entry to extend streak
