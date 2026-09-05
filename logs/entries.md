@@ -15,3 +15,4 @@ this is to get users into the habit of doing daily commits to git and practice
 02 Sep 2026 - first entry from the office!
 03 Sep 2026 - adding entry to extend streak
 04 Sep 2026 - extending streak again
+05 Sep 2026 - couldnt do the exercise in time today
