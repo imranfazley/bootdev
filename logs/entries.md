@@ -16,3 +16,4 @@ this is to get users into the habit of doing daily commits to git and practice
 03 Sep 2026 - adding entry to extend streak
 04 Sep 2026 - extending streak again
 05 Sep 2026 - couldnt do the exercise in time today
+06 Sep 2026 - rebase on home pc
