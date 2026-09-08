@@ -18,3 +18,4 @@ this is to get users into the habit of doing daily commits to git and practice
 05 Sep 2026 - couldnt do the exercise in time today
 06 Sep 2026 - rebase on home pc
 07 Sep 2026 - good morning! extending streak from the office
+08 Sep 2026 - not much today. another extension
