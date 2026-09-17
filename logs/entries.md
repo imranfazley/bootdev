@@ -21,3 +21,4 @@ this is to get users into the habit of doing daily commits to git and practice
 08 Sep 2026 - not much today. another extension
 09 Sep 2026 - backup entry in case i cant do lesson today
 11 Sep 2026 - morning entry to extend streak
+17 Sep 2026 - its been a while. this entry to mark completion of the bookbot module
