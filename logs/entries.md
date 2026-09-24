@@ -24,3 +24,4 @@ this is to get users into the habit of doing daily commits to git and practice
 17 Sep 2026 - its been a while. this entry to mark completion of the bookbot module
 21 Sep 2026 - quick update. currently on the OOP module
 23 Sep 2026 - currently learning Class and instances
+24 Sep 2026 - extending streak
