@@ -29,3 +29,4 @@ this is to get users into the habit of doing daily commits to git and practice
 29 Sep 2026 - extending streak
 
 01 Oct 2026 - new month! 
+05 Oct 2026 - currently on inheritance topic and also doing asteroid game using pygame
