@@ -30,3 +30,4 @@ this is to get users into the habit of doing daily commits to git and practice
 
 01 Oct 2026 - new month! 
 05 Oct 2026 - currently on inheritance topic and also doing asteroid game using pygame
+10 Oct 2026 - Oct updates have been slow. still on inheritance
