@@ -33,3 +33,4 @@ this is to get users into the habit of doing daily commits to git and practice
 10 Oct 2026 - Oct updates have been slow. still on inheritance
 11 Oct 2026 - stuck on inheritance location. location of dragon is different from what is printed
 12 Oct 2026 - re-did the location module yesterday and it was able to work this time. maybe the x,y positions defining the affected area was not correctly defined previously.
+14 Oct 2026 - onwards to polymorphism! opencode module will be available next Monday (19 Oct)
