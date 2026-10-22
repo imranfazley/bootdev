@@ -37,3 +37,4 @@ this is to get users into the habit of doing daily commits to git and practice
 15 Oct 2026 - started opencode school. still in progress of setting up on the laptop
 19 Oct 2026 - new week. continuing opencode school. 
 20 Oct 2026 - streak has already been extended. this is just to keep up with git activity
+22 Oct 2026 - currently doing polymorphism
