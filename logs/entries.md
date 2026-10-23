@@ -38,3 +38,4 @@ this is to get users into the habit of doing daily commits to git and practice
 19 Oct 2026 - new week. continuing opencode school. 
 20 Oct 2026 - streak has already been extended. this is just to keep up with git activity
 22 Oct 2026 - currently doing polymorphism
+23 Oct 2026 - polymorphism complete. starting asteroid game development
