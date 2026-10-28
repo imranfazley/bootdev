@@ -40,3 +40,4 @@ this is to get users into the habit of doing daily commits to git and practice
 22 Oct 2026 - currently doing polymorphism
 23 Oct 2026 - polymorphism complete. starting asteroid game development
 26 Oct 2026 - new entry to extend streak
+28 Oct 2026 - extending streak. learned how to turn on display in pygame and turn it off
