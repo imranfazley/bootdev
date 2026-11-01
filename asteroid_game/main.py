@@ -15,7 +15,7 @@ def main():
     dt = 0.0
     x = SCREEN_WIDTH / 2
     y = SCREEN_HEIGHT / 2
-    player = Player.__init__(x,y)
+    player = Player(x,y)
 
     while True:
         log_state()
