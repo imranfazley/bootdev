@@ -43,3 +43,4 @@ this is to get users into the habit of doing daily commits to git and practice
 28 Oct 2026 - extending streak. learned how to turn on display in pygame and turn it off
 
 01 Nov 2026 - new month. still on the asteroid game. got visualization up and working on its movement next.
+02 Nov 2026 - wasnt able to work on bootdev until 30 mins before end of the day. no time to work on the tasks today
