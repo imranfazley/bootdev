@@ -46,4 +46,4 @@ this is to get users into the habit of doing daily commits to git and practice
 02 Nov 2026 - wasnt able to work on bootdev until 30 mins before end of the day. no time to work on the tasks today
 06 Nov 2026 - still on the asteroid game. new entry to extend streak
 08 Nov 2026 - entry to extend streak
-
+09 Nov 2026 - entry to extend streak (again!)
