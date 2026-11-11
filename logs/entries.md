@@ -47,3 +47,4 @@ this is to get users into the habit of doing daily commits to git and practice
 06 Nov 2026 - still on the asteroid game. new entry to extend streak
 08 Nov 2026 - entry to extend streak
 09 Nov 2026 - entry to extend streak (again!)
+11 Nov 2026 - asteroid game is working after referencing solution files but have not committed changes from home pc yet. log entry only for today
